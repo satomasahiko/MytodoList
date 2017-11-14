@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">やるべきこと</string>
+    <string name="tv_thx_title">タイトル</string>
+    <string name="tv_thx_desc">締切</string>
+    <string name="bt_thx_back">リスト一覧に戻る</string>
+
+</resources>
